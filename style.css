@@ -1,0 +1,23 @@
+body {
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+textarea {
+    width: 50%;
+    height: 40%;
+    font-size: 1.25rem;
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid black;
+}
+input {
+    font-size: 1.2rem;
+    font-family: 'Poppins', sans-serif;
+}
+#clear-btn, #count-btn {
+    font-size: 1.2rem;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 2rem;
+}
+
